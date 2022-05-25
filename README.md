@@ -84,7 +84,7 @@ These are the original locations all schemes were imported from.
 
 ## FAQ
 
-*** Where did these all come from?***
+***Where did these all come from?***
 
 These schemes were originally imported from [the old schemes source repo](https://github.com/chriskempson/base16-schemes-source) on May 25th, 2022 around 11pm UTC.
 
