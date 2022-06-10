@@ -37,6 +37,7 @@ These are the original locations all schemes were imported from.
 * [Gigavolt](https://github.com/Whillikers/base16-gigavolt-scheme) maintained by [Whillikers](https://github.com/Whillikers)
 * [Github](https://github.com/Defman21/base16-github-scheme) maintained by [Defman21](https://github.com/Defman21)
 * [Gotham](https://github.com/sboysel/base16-gotham-scheme) maintained by [sboysel](https://github.com/sboysel)
+* [Gruber](https://github.com/nimaipatel/base16-gruber) maintained by [nimaipatel](https://github.com/nimaipatel)
 * [Gruvbox Material](https://github.com/MayushKumar/base16-gruvbox-material-scheme) maintained by [MayushKumar](https://github.com/MayushKumar)
 * [Gruvbox](https://github.com/dawikur/base16-gruvbox-scheme) maintained by [dawikur](https://github.com/dawikur)
 * [Hardcore](https://github.com/callerc1/base16-hardcore-scheme) maintained by [callerc1](https://github.com/callerc1)
