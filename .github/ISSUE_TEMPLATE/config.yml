@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/base16-project/base16
     about: Sometimes the answers are right there, just waiting to be discovered.
   - name: Discuss within the broader Base16 project
-    about: Your issue is broadly applicable to most Base16 schemes (or the overall project)
+    about: Your issue is broadly applicable to most Base16 schemes (or the overall project).
     url: https://github.com/base16-project/base16/issues/new
