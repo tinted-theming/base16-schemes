@@ -1,8 +1,8 @@
 blank_issues_enabled: true
 contact_links:
-  - name: Read the Base16 spec
-    url: https://github.com/base16-project/base16
+  - name: Learn more about the various specs and larger ecosystem
+    url: https://github.com/base16-project/home
     about: Sometimes the answers are right there, just waiting to be discovered.
-  - name: Discuss within the broader Base16 project
-    about: Your issue is broadly applicable to most Base16 schemes (or the overall project).
-    url: https://github.com/base16-project/base16/issues/new
+  - name: Discuss within the broader project
+    about: Your issue is broadly applicable to most Base16 schemes (or the whole ecosystem).
+    url: https://github.com/base16-project/home/issues/new
