@@ -1,0 +1,20 @@
+name: "Xterm"
+author: "Xterm Authors"
+system: ansi16
+palette:
+  base00: "#000000" # black
+  base01: "#cd0000" # red
+  base02: "#00cd00" # green
+  base03: "#cdcd00" # yellow
+  base04: "#0000aa" # blue
+  base05: "#cd00cd" # magenta
+  base06: "#00cdcd" # cyan
+  base07: "#e5e5e5" # white
+  base08: "#7f7f7f" # grey
+  base09: "#ff0000" # bright red
+  base10: "#00ff00" # bright green
+  base11: "#ffff00" # bright yellow
+  base12: "#5c5cff" # bright blue
+  base13: "#ff00ff" # bright magenta
+  base14: "#00ffff" # bright cyan
+  base15: "#ffffff" # bright white

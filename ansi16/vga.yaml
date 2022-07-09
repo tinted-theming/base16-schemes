@@ -1,0 +1,20 @@
+name: "VGA"
+author: "Unknown"
+system: ansi16
+palette:
+  base00: "#000000" # black
+  base01: "#aa0000" # red
+  base02: "#00aa00" # green
+  base03: "#aa5500" # yellow
+  base04: "#0000aa" # blue
+  base05: "#aa00aa" # magenta
+  base06: "#00aaaa" # cyan
+  base07: "#aaaaaa" # white
+  base08: "#555555" # grey
+  base09: "#ff5555" # bright red
+  base10: "#55ff55" # bright green
+  base11: "#ffff55" # bright yellow
+  base12: "#5555ff" # bright blue
+  base13: "#ff55ff" # bright magenta
+  base14: "#55ffff" # bright cyan
+  base15: "#ffffff" # bright white
