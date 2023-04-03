@@ -5,6 +5,9 @@
 To submit your scheme, submit a new pull request to this repository with your
 scheme yaml file.
 
+## Third-party Tools
+- [base16-conversion-scripts](https://github.com/Diogo-ss/base16-conversion-scripts) - Convert Base16 scheme YAML files to other file formats.
+
 ## Imported Scheme Repositories
 
 These are the original locations all schemes were imported from.
