@@ -29,6 +29,7 @@ These are the original locations all schemes were imported from.
 * [Darkviolet](https://github.com/ruler501/base16-darkviolet-scheme) maintained by [ruler501](https://github.com/ruler501)
 * [Default](https://github.com/chriskempson/base16-default-scheme) maintained by [chriskempson](https://github.com/chriskempson)
 * [Dracula](https://github.com/dracula/base16-dracula-scheme) maintained by [mikebarkmin](https://github.com/mikebarkmin)
+* [Evenok](https://codeberg.org/mekeor/emacs-evenok-themes) maintained by [Mekeor Melire](https://codeberg.org/mekeor)
 * [Equilibrium](https://github.com/carloabelli/base16-equilibrium-scheme) maintained by [carloabelli](https://github.com/carloabelli)
 * [Espresso](https://github.com/alexmirrington/base16-espresso-scheme) maintained by [alexmirrington](https://github.com/alexmirrington)
 * [Eva](https://github.com/kjakapat/base16-eva-scheme) maintained by [kjakapat](https://github.com/kjakapat)
