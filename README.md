@@ -63,6 +63,7 @@ These are the original locations all schemes were imported from.
 * [One Light](https://github.com/purpleKarrot/base16-one-light-scheme) maintained by [purpleKarrot](https://github.com/purpleKarrot)
 * [Onedark](https://github.com/tilal6991/base16-onedark-scheme) maintained by [tilal6991](https://github.com/tilal6991)
 * [Outrun](https://github.com/hugodelahousse/base16-outrun-schemes) maintained by [hugodelahousse](https://github.com/hugodelahousse)
+* [Oxocarbon](https://github.com/nyoom-engineering/base16-oxocarbon) maintained by [ludovicopiero](https://github.com/ludovicopiero)
 * [Pandora](https://github.com/pandorasfox/base16-pandora-scheme) maintained by [pandorasfox](https://github.com/pandorasfox)
 * [PaperColor](https://github.com/jonleopard/base16-papercolor-scheme) maintained by [jonleopard](https://github.com/jonleopard)
 * [Pasque](https://github.com/Misterio77/base16-pasque-scheme) maintained by [Misterio77](https://github.com/Misterio77)
