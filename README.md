@@ -1,5 +1,8 @@
 # base16-schemes
 
+Have a look at the
+[Gallery](https://tinted-theming.github.io/base16-gallery/) to preview these colorschemes.
+
 ## Contributing
 
 To submit your scheme, submit a new pull request to this repository with your
