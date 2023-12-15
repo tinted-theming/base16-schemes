@@ -1,4 +1,5 @@
 scheme: "Green Screen"
+slug:   "greenscreen"
 author: "Chris Kempson (http://chriskempson.com)"
 base00: "001100"
 base01: "003300"

@@ -1,5 +1,6 @@
 # Base16 Builder scheme by #!
 scheme: "Seti UI"
+slug:   "seti"
 author: ""
 base00: "151718"
 base01: "282a2b"
